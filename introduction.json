@@ -1,0 +1,37 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "title": "Welcome to Enigma Gaming",
+        "description": "> **Enigma Gaming** is the **Future of Indian eSports.**. We are a premiere eSports organization founded in September 2020 by <@709048487324418089> and <@770291845670109235>.\n\n> Having rosters in multiple games, we compete to win and thrive. Our growing popularity stems from our level of commitment to each game and tournament we are part of and our dedication to success. \n\n> Our victories wouldn’t be possible without our passionate fans, who are always there to support us. Make sure you don’t miss us at our next competition!",
+        "color": 16711935,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/826442957942030356/919835474128941056/Screenshot_2021_0330_191700.png"
+        },
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/attachments/826428541952458752/919126458318876692/da3bbf159b53e922e15eb322923e4cca.png"
+        }
+      },
+      {
+        "title": "Our Social Handles",
+        "description": "<a:insta:703175766048899102> [Instagram](https://www.instagram.com/enigmagamingindia/)  \n\n<a:youtube:919828026513043476> [Youtube](https://www.youtube.com/channel/UCIzXu-E5RC4rXkkwWbLYYxA) \n\n<a:DC:702782809412206624> [Discord](https://dsc.gg/enigmagaming) \n\n<:website:919827908573429800> [Website](https://www.enigmagamingindia.com)",
+        "color": 16711935,
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/attachments/826428541952458752/919126458318876692/da3bbf159b53e922e15eb322923e4cca.png"
+        }
+      },
+      {
+        "title": "Contact Us",
+        "description": ">>> We would love to hear from you. If anyone has a query to ask, they can send a mail to **contact@enigmagaming.in** or write it down [here](https://discord.gg/sVkuKGQvEd)",
+        "color": 16711935,
+        "footer": {
+          "text": "© 2021 Enigma Gaming"
+        },
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/attachments/826428541952458752/919126458318876692/da3bbf159b53e922e15eb322923e4cca.png"
+        }
+      }
+    ],
+    "username": "Enigma Gaming",
+    "avatar_url": "https://cdn.discordapp.com/attachments/826428541952458752/919126458318876692/da3bbf159b53e922e15eb322923e4cca.png"
+  }

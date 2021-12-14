@@ -1,0 +1,17 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "title": "Self Roles",
+        "description": "Subcribe to the following roles to get Push Notifications for the mentioned activities. \n\n> **Games** \n\n`Gives access to the playzone of the game subsribed to`\n\n<a:eg_Valorant:826474300147105792> : Valorant \n\n<:bgmi:919853853116080138> : BattleGrounds Mobile India \n\n<:FreeFire:920166785863520306> : Free Fire \n\n> **Special Notifs**\n\n`Pings when any of the following events occur`\n\n:tada: : Giveaways\n\n:loudspeaker: : Live Now \n\n:sports_medal: : Resilts",
+        "color": 16711935,
+        "footer": {
+          "text": "© 2021 Enigma Gaming"
+        },
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/attachments/826428541952458752/919126458318876692/da3bbf159b53e922e15eb322923e4cca.png"
+        }
+      }
+    ],
+    "avatar_url": "https://cdn.discordapp.com/attachments/826428541952458752/919126458318876692/da3bbf159b53e922e15eb322923e4cca.png"
+  }
